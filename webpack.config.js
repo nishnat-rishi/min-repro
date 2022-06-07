@@ -1,5 +1,7 @@
 const path = require('path');
 
 module.exports = {
-  resolve: {},
+  resolve: {
+    modules: ["node_modules"]
+  },
 };

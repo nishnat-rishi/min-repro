@@ -16,6 +16,7 @@
     "webpack": "^5.73.0"
   },
   "dependencies": {
+    "react": "^18.1.0",
     "react-hook-form": "^7.31.3"
   }
 }
