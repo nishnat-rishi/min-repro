@@ -1,0 +1,21 @@
+{
+  "name": "min-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint ./src --ext .jsx --ext .js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.17.0",
+    "eslint-import-resolver-webpack": "^0.13.2",
+    "eslint-plugin-import": "^2.26.0",
+    "webpack": "^5.73.0"
+  },
+  "dependencies": {
+    "react-hook-form": "^7.31.3"
+  }
+}
